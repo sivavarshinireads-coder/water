@@ -1,0 +1,9 @@
+{
+  "nav": { "dashboard": "डॅशबोर्ड", "myBills": "माझी बिले", "myUsage": "माझा वापर", "notifications": "सूचना", "support": "मदत", "logout": "बाहेर पडा", "residents": "रहिवासी", "apartments": "अपार्टमेंट", "billing": "बिलिंग", "tariffs": "दर", "reports": "अहवाल", "meterReadings": "मीटर रीडिंग" },
+  "dashboard": { "welcome": "स्वागत आहे", "totalConsumption": "एकूण वापर", "currentBill": "सध्याचे बिल", "dueDate": "देय तारीख", "payNow": "आता पैसे द्या", "viewBills": "बिले पहा", "usageHistory": "वापर इतिहास", "monthlyUsage": "मासिक वापर", "billingCycle": "बिलिंग सायकल", "status": "स्थिती", "paid": "भरले", "unpaid": "न भरलेले", "overdue": "थकबाकी" },
+  "bills": { "title": "माझी बिले", "month": "महिना", "amount": "रक्कम", "status": "स्थिती", "dueDate": "देय तारीख", "actions": "क्रिया", "download": "पावती डाउनलोड करा", "noRecords": "कोणतेही बिलिंग रेकॉर्ड नाही", "baseAmount": "मूळ रक्कम", "sharedCost": "सामायिक क्षेत्र खर्च", "lateFee": "उशीर शुल्क", "total": "एकूण", "consumption": "पाण्याचा वापर" },
+  "usage": { "title": "पाण्याचा वापर", "date": "तारीख", "liters": "लिटर", "month": "महिना", "noData": "वापर डेटा उपलब्ध नाही" },
+  "auth": { "login": "लॉगिन", "signup": "साइन अप", "logout": "बाहेर पडा", "email": "ईमेल", "password": "पासवर्ड", "fullName": "पूर्ण नाव", "phone": "फोन नंबर", "forgotPassword": "पासवर्ड विसरलात?", "noAccount": "खाते नाही?", "haveAccount": "आधीच खाते आहे?" },
+  "common": { "loading": "लोड होत आहे...", "save": "जतन करा", "cancel": "रद्द करा", "delete": "हटवा", "edit": "संपादित करा", "add": "जोडा", "search": "शोधा", "filter": "फिल्टर", "export": "निर्यात", "submit": "सबमिट करा", "back": "मागे", "close": "बंद करा", "yes": "होय", "no": "नाही", "success": "यश", "error": "त्रुटी", "language": "भाषा" },
+  "support": { "title": "मदत", "newTicket": "नवीन तिकीट", "subject": "विषय", "message": "संदेश", "status": "स्थिती", "open": "उघडा", "closed": "बंद", "noTickets": "कोणतेही सहाय्य तिकीट नाही" }
+}
